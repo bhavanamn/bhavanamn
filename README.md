@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning on full stack development and Data Strcutures and Algorithms
 
-- 💬 Ask me about **google interview experience full stack ,dsa, ml**
+- 💬 Ask me about **google interview experience, full stack development,dsa, ml**
 
 - 📫 How to reach me **saibhavana2003@gmail.com**
 
