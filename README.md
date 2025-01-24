@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavanamn&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanamn" /> </p>
 
-- 🌱 I’m currently learning **react,node**
+- 🌱 I’m currently learning on full stack development and Data Strcutures and Algorithms
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **google interview experience full stack ,dsa, ml**
 
 - 📫 How to reach me **saibhavana2003@gmail.com**
 
